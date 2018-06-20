@@ -1,12 +1,11 @@
 # Anime Quote Generator
 A random anime quote generator that generates random quotes from different anime series or movies.
+Forked from https://github.com/jiashengc/anime-quote-generator
 
-This generator was made as part of finishing the freeCodeCamp "Build a Random Quote Machine" Zipline challenge.
-
-Current amount of quotes: **82**
+If you want to see it in action, check it out from https://github.com/Deivu/Haruna
 
 ## Interested in adding more quotes?
-If you would like to contribute. Just head over to "script.js" and commit the following to the file along with quote you wish to add:
+If you would like to contribute. Just submit a pull request on aniquote.js and I'll merge it once I checked it.
 
 ```
     anime_quote[] = {
@@ -17,7 +16,6 @@ If you would like to contribute. Just head over to "script.js" and commit the fo
     }
 ```
 
-
 Here's an example.
 ```
     anime_quote[15] = {
@@ -27,6 +25,3 @@ Here's an example.
       "quoteanime": " Sayonara Zetsubou Sensei"
     }
 ```
-
-## Use it in node.js
-[![NPM](https://nodei.co/npm/animequote.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/animequote/)
