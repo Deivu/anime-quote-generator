@@ -1,4 +1,4 @@
-exports.aniquote = () => {
+exports.run = () => {
 	let anime_quote = [];
 
     anime_quote[0] = {
